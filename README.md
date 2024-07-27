@@ -1,16 +1,16 @@
 # Capacitação em UX/UI Design
 
-## What is User Experience (UX)?
+## O que é User Experience (UX)?
 
 - [O que é UX? - Medium](https://medium.com/@riciere/em-resumo-o-que-%C3%A9-ux-dbd0b24231f3#:~:text=O%20design%20de%20experi%C3%AAncia%20do%20usu%C3%A1rio%20(UX)%20%C3%A9%20um%20campo,e%20a%20efic%C3%A1cia%20do%20produto.)
 - [10 conteúdos para entender User Experience Design - Medium](https://medium.com/somos-tera/10-conteudos-para-entender-user-experience-design-9da32667e49e)
 
-## What is User Interface (UI)?
+## O que é User Interface (UI)?
 
 - [O que é UI Design e UX Design? - Medium](https://medium.com/ui-lab-school/o-que-%C3%A9-ui-design-e-ux-design-525b95eb05df)
 - [O que é UX e UI Design? - Medium](https://medium.com/creative-bee/o-que-%C3%A9-ux-e-ui-design-um-guia-introdut%C3%B3rio-nessa-%C3%A1rea-57170ba5b5c8)
 
-## Wireframes (Understanding the Construction)
+## Wireframes (Entendendo e Construindo)
 
 - [O que é um Wireframe? - Medium](https://mppagano.medium.com/o-que-%C3%A9-um-wireframe-uxdrops-b02fe76ec43b)
 - [O Wireframe enquanto método, não entregável - UXDesign](https://brasil.uxdesign.cc/o-wireframe-enquanto-m%C3%A9todo-n%C3%A3o-entreg%C3%A1vel-30b52648b8da)
@@ -52,7 +52,14 @@
 
 Padronizar os designs da Altotech, com ênfase nos projetos do NITS e do Voluntários.
 
+Cada um dos integrantes deverá entregar um projeto que contenha:
+- Wireframe;
+- Protótipo principal de alta fidelidade baseado no Wireframe entregue;
+- Guia de Estilos (Style Guide).
+
 **Data de Entrega:** 31.07
+
+
 
 ## Checklist
 
