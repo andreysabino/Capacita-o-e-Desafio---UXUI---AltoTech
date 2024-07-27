@@ -59,6 +59,10 @@ Cada um dos integrantes deverá entregar um projeto que contenha:
 
 **Data de Entrega:** 31.07
 
+## Design System para dicas de Uso
+
+- [SHADC UI](https://www.figma.com/design/xBjhfbLnNamRDiKkG4gXKr/%40shadcn%2Fui---Design-System-(Community)?m=auto&is-community-duplicate=1&fuid=1083887620279697112)
+
 
 
 ## Checklist
